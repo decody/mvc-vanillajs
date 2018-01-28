@@ -1,5 +1,5 @@
 # MVC Design Pattern on Vanilla JS
-This document is my Javascript code learning on Inflearn.
+This document is my Javascript code learning on Inflearn which is a Korean online school for code learners.
 
 ## Things to set up for practice
 
