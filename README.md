@@ -1,16 +1,17 @@
-# MVC 패턴 Vanilla JS
-이 문서는 인프런 김정환 님의 동영상강의 \<순수JS MVC패턴\>을 공부하면서 정리한 소스입니다.
+# MVC Design Pattern on Vanilla JS
+This document is my Javascript code learning on Inflearn.
 
-## 연습하기 전 준비해야 할 것들
+## Things to set up for practice
 
-1. Node.js
-2. VS Code or Atom (이 외에 에디터 툴 무방)
-3. Lite-server (Node.js 기반)
-4. Chrome 최신 버전 (es6 module 지원)
-5. Git
+1. [Node.js](https://nodejs.org/)
+2. [VS Code](https://code.visualstudio.com) or [Atom](https://atom.io) (이 외에 에디터 툴 무방)
+3. [lite-server](https://github.com/johnpapa/lite-server) (Node.js)
+4. [Chrome lastest version](https://www.google.co.kr/chrome/browser/desktop/index.html) (es6 module support)
+5. [Git](https://git-scm.com)
 
-## MVC 패턴 (Model-view-controller)
+## Model-view-controller (MVC)
 
-* Model: 테이터 관리
-* View: 데이터 화면관리, 사용자 입력값 체크
-* Controller: Model과 View 연결
+* Model: Data Management
+* View: Data UI Mangement, Check user input value
+* Controller: Control between Model and View
+* [MVC Design Pattern (wiki)](https://en.wikipedia.org/wiki/Model–view–controller)
