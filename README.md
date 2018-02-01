@@ -1,7 +1,7 @@
 # MVC Design Pattern on Vanilla JS
 This document is my Javascript code learning on Inflearn which is a Korean online school for code learners.
 
-## Things to set up for practice
+## Stuff to set up for practice
 
 1. [Node.js](https://nodejs.org/)
 2. [VS Code](https://code.visualstudio.com) or [Atom](https://atom.io)
